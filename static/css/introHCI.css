@@ -1,8 +1,4 @@
 /* applies to anything of class "example-class-selector" */
-p {
-    font-variant: small-caps;
-}
-
 .project p {
     font-variant: small-caps;
 }
